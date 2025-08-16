@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Terms of Service and Privacy Policy</title>
 </head>
 <body>
   <h1>Terms of Service & Privacy Policy</h1>
