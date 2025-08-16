@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Terms of Service>
+  <h1>Terms of Service><h1>
   <p>Last updated: August 16, 2025</p>
 
   <h2>1. Introduction</h2>
